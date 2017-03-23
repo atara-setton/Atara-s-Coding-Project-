@@ -1,0 +1,20 @@
+img {
+    width: 200px;
+    height: 300px;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: orange;
+}
+h3 {
+    font-size: 25px; 
+    color: blue;
+    font-family: 'Nova Oval', cursive
+}
+p {
+    font-size: 30px;
+    color: yellow;
+    font-family: 'Nova Oval', cursive
+}

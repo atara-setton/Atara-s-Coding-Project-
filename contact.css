@@ -1,0 +1,20 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+p {
+    color: gray;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: red;
+}
+h3 {
+    color: orange;
+}
+p {
+         font-family:'Roboto', sans-serif;
+         font-size: 30px;
+} 

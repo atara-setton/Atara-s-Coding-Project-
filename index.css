@@ -1,0 +1,23 @@
+img {
+    width: 550px;
+    height: 1000px;
+}
+body {
+    font-family: 'Barrio', cursive;
+} 
+h1 {
+    font-size: 57px; 
+}
+h2 {
+ color: blue;
+}
+h3 { 
+    color: green;
+}
+#indexParagraph {
+    color: red;
+}
+#ataraParagraph {
+    font-size: x-large; 
+    color: orange;
+}
